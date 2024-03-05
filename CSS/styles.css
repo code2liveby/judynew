@@ -1,0 +1,224 @@
+/* FILEPATH: /c:/Users/Owner/Desktop/PROJECTS/JUDY STAR STUDENT/CSS/styles.css */
+
+body {
+    background-image: url('../Resources/Images/sky.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+  margin: 0;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: rgb(212, 0, 255);
+  font-size: 150px;
+  text-shadow: 3px 3px 4px black, 0 0 25px rgb(212, 0, 255), 0 0 5px rgb(212, 0, 255);
+}
+
+header {
+  height: 200px; 
+   
+}
+
+img {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: Arial, sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  text-align: center;
+}
+
+.topimage {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.topimage img {
+   display: inline-block;
+   max-width: 400px;
+   border: 8px solid white;
+   margin-top: 0px;
+   margin-right: 15px;
+   border-shadow: 5px 5px 5px black;
+
+}
+
+.backgroundcontainer {
+    background-color: rgb(253, 214, 245);
+    padding: 0px;
+    margin: 30px;
+    margin-top: 50px;
+    padding-bottom: 25px;
+    border: 10px solid rgb(243, 5, 223);
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px black;
+}
+
+h2 {
+    color: rgb(168, 14, 199);
+    font-size: 100px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-shadow: 3px 3px 4px black, 0 0 25px rgb(212, 0, 255), 0 0 5px rgb(212, 0, 255);
+}
+
+.li {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-bottom: 30px;
+    line-height: 180%;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(212, 0, 255), 0 0 5px rgb(212, 0, 255);
+}
+
+.fact {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-style: italic;
+    margin: auto;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(212, 0, 255), 0 0 5px rgb(212, 0, 255);
+}
+
+footer {
+    background-color: rgb(204, 252, 255);
+    padding: 0px;
+    margin: 20px;
+    padding-bottom: 25px;
+    border: 10px solid rgb(243, 5, 223);
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px black;
+}
+.game {
+   display: inline-block;
+   max-width: 400px;
+   border: 8px solid white;
+   margin-top: 0px;
+   border-shadow: 5px 5px 5px black;
+   background-position: center;
+   background-size: cover;
+
+
+}
+
+.mates {
+    display: inline-block;
+    max-width: 400px;
+    border: 8px solid white;
+    margin-top: 0px;
+    border-shadow: 5px 5px 5px black;
+    background-position: center;
+    background-size: cover;
+}
+
+.art {
+    display: inline-block;
+    max-width: 400px;
+    border-shadow: 5px 5px 5px black;
+    background-position: center;
+    background-size: cover;
+    margin-top: 0;
+}
+
+.family{
+  display: inline-block;
+  max-width: 400px;
+  border: 8px solid white;
+  margin-top: 0px;
+  border-shadow: 5px 5px 5px black;
+  background-position: center;
+  background-size: cover;
+}
+
+h3{
+    color: rgb(168, 14, 199);
+    font-size: 75px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-shadow: 3px 3px 4px black, 0 0 25px rgb(212, 0, 255), 0 0 5px rgb(212, 0, 255);
+}
+
+.video {
+    display: inline-block;
+    max-width: 400px;
+    border: 8px solid white;
+    margin-top: 0px;
+    border-shadow: 5px 5px 5px black;
+    background-position: center;
+    background-size: cover;
+}
+
+h4{
+    color: rgb(74, 74, 235);
+    font-size: 60px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-shadow: 3px 3px 4px black, 0 0 25px rgb(212, 0, 255), 0 0 5px rgb(212, 0, 255);
+}
+
+h5{
+    color: rgb(74, 74, 235);
+    font-size: 45px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-shadow: 3px 3px 4px black, 0 0 25px rgb(212, 0, 255), 0 0 5px rgb(212, 0, 255);
+}
+
+.artcontainer {
+  background-color: rgb(253, 214, 245);
+  padding: 0px;
+  margin: 30px;
+  margin-top: 50px;
+  padding-bottom: 25px;
+  border: 10px solid rgb(243, 5, 223);
+  border-radius: 25px;
+  box-shadow: 5px 5px 5px black;
+} 
+
+.artcontainer video {
+  margin-top: 0; 
+  border: 5px solid white;
+  background-color: rgb(216, 250, 250);
+  width: 500px;
+  padding-top: 0px;
+  padding-bottom: 50px;
+
+}
+
+.backgroundcontainer video {
+  margin-top: 0; 
+  border: 5px solid white;
+  background-color: rgb(216, 250, 250);
+  width: 500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
